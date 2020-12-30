@@ -1,0 +1,7 @@
+.idea/
+*/__pycache__
+.vscode
+*/sandbox.*
+*/**/*.log
+*/**/__pycache*
+*/*.diff
