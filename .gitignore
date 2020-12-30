@@ -2,6 +2,7 @@
 */__pycache__
 .vscode
 */sandbox.*
-*/**/*.log
+*/*/*.log
+err.log
 */**/__pycache*
 */*.diff
